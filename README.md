@@ -26,4 +26,3 @@ The `type` field of `json_value` is one of:
 * `json_string` (see `u.string.ptr`, `u.string.length`)
 * `json_boolean` (see `u.boolean`)
 * `json_null`
-
