@@ -36,4 +36,3 @@ The `type` field of `json_value` is one of:
 
 
 
-
